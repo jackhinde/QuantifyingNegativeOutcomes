@@ -1,2 +1,7 @@
-# QuantifyingNegativeOutcomes
-A project using R
+![Page 1](QuantifyingNegativeOutcomes-1.png)
+![Page 2](QuantifyingNegativeOutcomes-2.png)
+![Page 3](QuantifyingNegativeOutcomes-3.png)
+![Page 4](QuantifyingNegativeOutcomes-4.png)
+![Page 5](QuantifyingNegativeOutcomes-5.png)
+![Page 6](QuantifyingNegativeOutcomes-6.png)
+![Page 7](QuantifyingNegativeOutcomes-7.png)
